@@ -1,0 +1,20 @@
+
+<!DOCtype Html>
+<html>
+<style>
+	h1{
+		margin-top: 200pt;
+	}
+	</style>	
+<head>
+		<title>Home</title>
+	</head>
+	
+	<body>
+<center>
+	<h1>WELCOME MA G!!!</h1>
+	
+	
+</center>
+</body>
+</html>
